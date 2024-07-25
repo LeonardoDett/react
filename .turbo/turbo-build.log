@@ -1,5 +1,5 @@
 
-> @test-azenka/react@1.0.0 build
+> test-azenka/react@1.0.0 build
 > tsup src/index.tsx --format esm,cjs --dts --external react
 
 [34mCLI[39m Building entry: src/index.tsx
